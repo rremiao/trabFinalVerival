@@ -1,5 +1,5 @@
 package com.rremiao;
 
-public interface Estoque extends Repositorio<ItemEstoque,Integer> {
+public interface Estoque extends Repositorio<ItemEstoque,Integer> {//alteracao
     
 }
